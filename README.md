@@ -1,1 +1,4 @@
-# python10
+# project/
+│── main.py
+│── utils.py
+│── requirements.txt
